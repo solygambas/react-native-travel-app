@@ -21,7 +21,10 @@
     "react-redux": "^7.1.1",
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
-    "expo-image-picker": "~7.0.0"
+    "expo-image-picker": "~7.0.0",
+    "expo-permissions": "~7.0.0",
+    "expo-file-system": "~7.0.0",
+    "expo-sqlite": "~7.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
