@@ -4,7 +4,7 @@ A travel app using native device features, React Navigation, Redux and Redux-Thu
 ## Features
 - displaying your favorites places.
 - adding a place to favorites by taking a picture and setting your location, via GPS or on a map.
-- showing place details with address and opening a full-screen map.
+- showing place details with address and opening a fullscreen map.
 
 ## Native device features
 - handling permissions with expo-permissions.
@@ -24,7 +24,7 @@ A travel app using native device features, React Navigation, Redux and Redux-Thu
 - using props.navigation to navigate between screens.
 - handling data from component to header with setParams and getParam.
 - custom header title with navigationOptions.
-- custom buttons in the header with react-navigation-header-buttons.
+- custom button in the header with react-navigation-header-buttons.
 
 ## Redux, React-Redux and Redux-Thunk
 - using actions and reducers to store favorite places.
@@ -35,8 +35,8 @@ A travel app using native device features, React Navigation, Redux and Redux-Thu
 - passing useDispatch to the header with useEffect and useCallback to limit re-render cycles.
 
 ## React Native
-- using FlatList, TouchableOpacity, ScrollView, ActivityIndicator, Alert.
-- custom components for place item, image picket, location picker and map preview.
+- using FlatList, TouchableOpacity, ScrollView, ActivityIndicator and Alert.
+- custom components for place item, image picker, location picker and map preview.
 - color constants.
 - using React hooks (useState, useEffect, useCallback).
 
