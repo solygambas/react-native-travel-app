@@ -2,7 +2,7 @@
 A travel app using native device features, React Navigation, Redux and Redux-Thunk.
 
 ## Features
-- displaying your favorites places.
+- displaying your favorite places.
 - adding a place to favorites by taking a picture and setting your location, via GPS or on a map.
 - showing place details with address and opening a fullscreen map.
 
